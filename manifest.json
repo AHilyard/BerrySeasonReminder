@@ -5,6 +5,6 @@
 	"Description": "Adds berry season icons to your calendar after receiving Bear's Knowledge.",
 	"UniqueID": "com.anthonyhilyard.berryseasonreminder",
 	"EntryDll": "BerrySeasonReminder.dll",
-	"MinimumApiVersion": "4.0.0",
+	"MinimumApiVersion": "4.1.0",
 	"UpdateKeys": []
   }
